@@ -1,0 +1,11 @@
+- Jeff
+  Employees:
+    - Dave
+      Employees:
+        - Andy
+        - Dan
+        - Jason
+        - Rick
+        - Suzanne
+
+Total salary: 590000
